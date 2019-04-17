@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Remove method (FileSystemObject)
+# Remove method (Dictionary)
 
 Removes a key/item pair from a **[Dictionary](dictionary-object.md)** object.
 
